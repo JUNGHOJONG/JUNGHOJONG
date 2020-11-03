@@ -2,7 +2,7 @@
 I'm Hojong Jung who wants to be Java Back-end Developer from South Korea.
 
 ### Experience
-- 17th Embedded Software Competition advance to the finals
+- The 17th Embedded Software Competition advance to the finals
 - The 25th International Symposium on Electronic Art Exhibition
 
 ### Interest
