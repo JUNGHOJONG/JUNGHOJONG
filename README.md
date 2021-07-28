@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Hojong Jung who wants to be Java Back-end Developer from South Korea.
+I'm Hojong Jung who wants to be Artisan Developer from South Korea.
 
 ### Experience
 - The 17th Embedded Software Competition advance to the finals
@@ -8,6 +8,10 @@ I'm Hojong Jung who wants to be Java Back-end Developer from South Korea.
 ### Interest
 - media art(processing, p5.js)
 - swimming
+
+### Studying 🌱
+- springboot
+- jpa
 
 ![JUNGHOJONG's github stats](https://github-readme-stats.vercel.app/api?username=JUNGHOJONG&show_icons=true&theme=merko)
 
